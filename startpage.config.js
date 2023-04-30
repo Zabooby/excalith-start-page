@@ -1,20 +1,13 @@
 const defaultConfig = {
 	username: "Excalith",
 	theme: {
-		backgroundColor: "#121317",
-		windowColor: "#1e212b",
-		glowColor: "#6b5cb157",
-		white: "#e2e2e2",
-		gray: "#97989d",
-		black: "#16161e",
-		red: "#ec6183",
-		green: "#2ed8a2",
-		yellow: "#e8b195",
-		blue: "#2bc3de",
-		cyan: "#62e0e2",
-		magenta: "#e069aa",
-		violet: "#d1aff8",
-		orange: "#ff8800"
+		backgroundColor: "#192330",
+		windowColor: "#1E2021",
+		glowColor: "#0000002e",
+		white: "#E5E9F0",
+		gray: "#d8dee9",
+		black: "#3B4252",
+		blue: "#A1B5CE"
 	},
 	wallpaper: {
 		url: "",
@@ -24,20 +17,20 @@ const defaultConfig = {
 	},
 	terminal: {
 		fixedHeight: true,
-		windowGlow: true,
+		windowGlow: false,
 		textGlow: false
 	},
 	prompt: {
 		ctrlC: true,
 		placeholder: "command...",
-		placeholderColor: "gray",
-		userColor: "green",
-		atColor: "gray",
-		hostColor: "magenta",
-		promptColor: "magenta",
+		placeholderColor: "blue",
+		userColor: "blue",
+		atColor: "blue",
+		hostColor: "blue",
+		promptColor: "blue",
 		promptSymbol: "❯",
-		caretColor: "green",
-		selectionBg: "yellow",
+		caretColor: "blue",
+		selectionBg: "blue",
 		selectionFg: "black"
 	},
 	fetch: {
@@ -68,46 +61,21 @@ const defaultConfig = {
 		shortcuts: [
 			{
 				alias: "g",
-				name: "Google Search",
-				url: "https://google.com/search?q={}"
-			},
-			{
-				alias: "d",
-				name: "DuckDuckGo Search",
-				url: "https://duckduckgo.com/?q={}"
-			},
-			{
-				alias: "b",
-				name: "Brave Search",
-				url: "https://search.brave.com/search?q={}"
-			},
-			{
-				alias: "gh",
 				name: "Github Search",
 				url: "https://github.com/search?q={}"
-			},
-			{
-				alias: "s",
-				name: "Stack Overflow Search",
-				url: "https://stackoverflow.com/search?q={}"
 			},
 			{
 				alias: "r",
 				name: "Subreddit Search",
 				url: "https://reddit.com/r/{}"
-			},
-			{
-				alias: "w",
-				name: "Wikipedia Search",
-				url: "https://en.wikipedia.org/wiki/{}"
 			}
 		]
 	},
 	sections: {
 		list: [
 			{
-				title: "General",
-				color: "green",
+				title: "Stuff",
+				color: "blue",
 				align: "left",
 				links: [
 					{
