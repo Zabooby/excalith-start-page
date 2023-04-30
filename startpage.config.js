@@ -27,7 +27,7 @@ const defaultConfig = {
 		userColor: "blue",
 		atColor: "blue",
 		hostColor: "blue",
-		promptColor: "blue",
+		promptColor: "white",
 		promptSymbol: "❯",
 		caretColor: "white",
 		selectionBg: "blue",
