@@ -52,7 +52,7 @@ const defaultConfig = {
 	urlLaunch: {
 		target: "_self",
 		defaultColor: "white",
-		hoverColor: "violet"
+		hoverColor: "blue"
 	},
 	search: {
 		default: "https://google.com/search?q=",
