@@ -22,7 +22,7 @@ const defaultConfig = {
 	},
 	prompt: {
 		ctrlC: true,
-		placeholder: "command...",
+		placeholder: "",
 		placeholderColor: "blue",
 		userColor: "blue",
 		atColor: "blue",
@@ -79,30 +79,35 @@ const defaultConfig = {
 				align: "left",
 				links: [
 					{
-						name: "Portfolio",
-						url: "https://cancellek.com",
-						icon: "mdi:web"
+						"name": "Gmail",
+						"url": "https://mail.google.com/mail/u/1/#inbox",
+						"icon": "mdi:email"
 					},
 					{
-						name: "Keybase",
-						url: "https://keybase.io/",
-						icon: "fa-brands:keybase"
+						"name": "Reddit",
+						"url": "https://www.reddit.com",
+						"icon": "mdi:reddit"
 					},
 					{
-						name: "GPT",
-						url: "https://chat.openai.com/",
-						icon: "simple-icons:openai"
+						"name": "Twitter",
+						"url": "https://www.twitter.com",
+						"icon": "mdi:twitter"
 					},
 					{
-						name: "OCI",
-						url: "https://www.oracle.com/cloud/",
-						icon: "simple-icons:oracle"
+						"name": "Youtube",
+						"url": "https://www.youtube.com",
+						"icon": "mdi:youtube"
+					},
+					{
+						"name": "Flipboard",
+						"url": "https://flipboard.com",
+						"icon": "mdi:newspaper-variant"
 					}
 				]
 			},
 			{
-				title: "Dev",
-				color: "magenta",
+				title: "University",
+				color: "blue",
 				align: "left",
 				links: [
 					{
@@ -128,8 +133,8 @@ const defaultConfig = {
 				]
 			},
 			{
-				title: "Social",
-				color: "violet",
+				title: "Watch",
+				color: "blue",
 				align: "left",
 				links: [
 					{
@@ -155,8 +160,8 @@ const defaultConfig = {
 				]
 			},
 			{
-				title: "Gaming",
-				color: "cyan",
+				title: "Comics",
+				color: "blue",
 				align: "left",
 				links: [
 					{
@@ -182,7 +187,7 @@ const defaultConfig = {
 				]
 			},
 			{
-				title: "Science",
+				title: "More Stuff",
 				color: "blue",
 				align: "left",
 				links: [
@@ -209,8 +214,8 @@ const defaultConfig = {
 				]
 			},
 			{
-				title: "Tech",
-				color: "yellow",
+				title: "Other Stuff",
+				color: "blue",
 				align: "left",
 				links: [
 					{
