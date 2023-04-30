@@ -29,7 +29,7 @@ const defaultConfig = {
 		hostColor: "blue",
 		promptColor: "blue",
 		promptSymbol: "❯",
-		caretColor: "blue",
+		caretColor: "white",
 		selectionBg: "blue",
 		selectionFg: "black"
 	},
