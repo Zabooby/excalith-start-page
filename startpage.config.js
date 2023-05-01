@@ -109,31 +109,31 @@ const defaultConfig = {
 				color: "blue",
 				align: "left",
 				links: [
-      {
-         "label": "Email",
-         "value": "https://outlook.office.com/mail/inboxhttps://moodle.city.ac.uk/my"
-				 "icon": "mdi:Email"
-      },
-      {
-        "label": "ICAEW",
-        "value": "https://bibliu.com/app/#/library"
-				"icon": "mdi:book-open-blank-variant"
-      },
-      {
-        "label": "Moodle",
-        "value": "https://moodle.city.ac.uk/my"
-				"icon": "mdi:view-dashboard"
-      },
-      {
-        "label": "LinkedIn",
-        "value": "https://moodle.city.ac.uk/pluginfile.php/2547444/mod_resource/content/1/Prof%20Skills%20Networking%20%20LinkedIn%20Workshop%2021_22.pdf"
-				"icon": "mdi:linkedin"
-      },
-      {
-        "label": "Timetable",
-        "value": "https://mytimetable.city.ac.uk/#/app/my-timetable"
-				"icon": "mdi:timetable"
-          }
+					{
+						"name": "Email",
+						"url": "https://outlook.office.com/mail/inboxhttps://moodle.city.ac.uk/my",
+						"icon": "mdi:email"
+					},
+					{
+						"name": "ICAEW",
+						"url": "https://bibliu.com/app/#/library",
+						"icon": "mdi:book-open-blank-variant"
+					},
+					{
+						"name": "Moodle",
+						"url": "https://moodle.city.ac.uk/my",
+						"icon": "mdi:dashboard"
+					},
+					{
+						"name": "LinkedIn",
+						"url": "https://moodle.city.ac.uk/pluginfile.php/2547444/mod_resource/content/1/Prof%20Skills%20Networking%20%20LinkedIn%20Workshop%2021_22.pdf",
+						"icon": "mdi:linkedin"
+					},
+					{
+						"name": "Timetable",
+						"url": "https://mytimetable.city.ac.uk/#/app/my-timetable",
+						"icon": "mdi:timetable"
+					}
 				]
 			},
 			{
