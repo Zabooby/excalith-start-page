@@ -154,12 +154,12 @@ const defaultConfig = {
 					{
 						name: "RARBG",
 						url: "https://rarbg.to/torrents.php",
-						icon: "mdi:movie-open-plus"
+						icon: "mdi:movie-search"
 					},
 					{
 						name: "1337x",
 						url: "https://1337x.to",
-						icon: "material-symbols:live-tv-rounded"
+						icon: "material-symbols:movie-search"
 					},
 					{
 						name: "MyAnimeList",
