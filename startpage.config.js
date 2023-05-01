@@ -149,17 +149,17 @@ const defaultConfig = {
 					{
 						name: "Nyaa",
 						url: "https://nyaa.si",
-						icon: "material-symbols:download-for-offline-rounded"
+						icon: "material-symbols:live-tv-rounded"
 					},
 					{
 						name: "RARBG",
 						url: "https://rarbg.to/torrents.php",
-						icon: "material-symbols:download-for-offline-rounded"
+						icon: "material-symbols:live-tv-rounded"
 					},
 					{
 						name: "1337x",
 						url: "https://1337x.to",
-						icon: "material-symbols:download-for-offline-rounded"
+						icon: "material-symbols:live-tv-rounded"
 					},
 					{
 						name: "MyAnimeList",
