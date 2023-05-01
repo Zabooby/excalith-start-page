@@ -142,25 +142,30 @@ const defaultConfig = {
 				align: "left",
 				links: [
 					{
-						name: "Twitter",
-						url: "https://twitter.com",
-						icon: "mdi:twitter"
+						name: "IMDb",
+						url: "https://www.imdb.com",
+						icon: "simple-icons:IMDB"
 					},
 					{
-						name: "Mastodon",
-						url: "https://mastodon.social/",
-						icon: "ri:mastodon-fill"
+						name: "Nyaa",
+						url: "https://nyaa.si",
+						icon: "mdi:animation-play"
 					},
 					{
-						name: "Reddit",
-						url: "https://reddit.com",
-						icon: "mdi:reddit"
+						name: "RARBG",
+						url: "https://rarbg.to/torrents.php",
+						icon: "mdi:download"
 					},
 					{
-						name: "Polywork",
-						url: "https://polywork.com",
-						icon: "simple-icons:polywork"
-					}
+						name: "1337x",
+						url: "https://1337x.to",
+						icon: "mdi:download"
+					},
+					{
+						name: "MyAnimeList",
+						url: "https://myanimelist.net",
+						icon: "simple-icons:myanimelist"
+					}					
 				]
 			},
 			{
