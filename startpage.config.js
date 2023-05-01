@@ -149,12 +149,12 @@ const defaultConfig = {
 					{
 						name: "Nyaa",
 						url: "https://nyaa.si",
-						icon: "material-symbols:live-tv-rounded"
+						icon: "mdi:movie-search"
 					},
 					{
 						name: "RARBG",
 						url: "https://rarbg.to/torrents.php",
-						icon: "material-symbols:live-tv-rounded"
+						icon: "mdi:movie-open-plus"
 					},
 					{
 						name: "1337x",
