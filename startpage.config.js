@@ -159,7 +159,7 @@ const defaultConfig = {
 					{
 						name: "1337x",
 						url: "https://1337x.to",
-						icon: "material-symbols:movie-search"
+						icon: "mdi:movie-search"
 					},
 					{
 						name: "MyAnimeList",
