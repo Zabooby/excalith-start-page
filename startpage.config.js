@@ -122,7 +122,7 @@ const defaultConfig = {
 					{
 						"name": "Moodle",
 						"url": "https://moodle.city.ac.uk/my",
-						"icon": "mdi:dashboard"
+						"icon": "mdi:view-dashboard"
 					},
 					{
 						"name": "LinkedIn",
@@ -144,12 +144,12 @@ const defaultConfig = {
 					{
 						name: "IMDb",
 						url: "https://www.imdb.com",
-						icon: "simple-icons:IMDB"
+						icon: "simple-icons:IMDb"
 					},
 					{
 						name: "Nyaa",
 						url: "https://nyaa.si",
-						icon: "mdi:animation-play"
+						icon: "mdi:download"
 					},
 					{
 						name: "RARBG",
