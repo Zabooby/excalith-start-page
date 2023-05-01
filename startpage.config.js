@@ -149,17 +149,17 @@ const defaultConfig = {
 					{
 						name: "Nyaa",
 						url: "https://nyaa.si",
-						icon: "mdi:download"
+						icon: "material-symbols:download-for-offline-rounded"
 					},
 					{
 						name: "RARBG",
 						url: "https://rarbg.to/torrents.php",
-						icon: "mdi:download"
+						icon: "material-symbols:download-for-offline-rounded"
 					},
 					{
 						name: "1337x",
 						url: "https://1337x.to",
-						icon: "mdi:download"
+						icon: "material-symbols:download-for-offline-rounded"
 					},
 					{
 						name: "MyAnimeList",
