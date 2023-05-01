@@ -117,7 +117,7 @@ const defaultConfig = {
 					{
 						"name": "ICAEW",
 						"url": "https://bibliu.com/app/#/library",
-						"icon": "mdi:book-open-blank-variant"
+						"icon": "mdi:book-open-variant"
 					},
 					{
 						"name": "Moodle",
@@ -144,7 +144,7 @@ const defaultConfig = {
 					{
 						name: "IMDb",
 						url: "https://www.imdb.com",
-						icon: "simple-icons:imdb"
+						icon: "cib:imdb"
 					},
 					{
 						name: "Nyaa",
