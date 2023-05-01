@@ -144,7 +144,7 @@ const defaultConfig = {
 					{
 						name: "IMDb",
 						url: "https://www.imdb.com",
-						icon: "fa-brands:imdb"
+						icon: "cib:imdb"
 					},
 					{
 						name: "Nyaa",
