@@ -5,7 +5,6 @@ const defaultConfig = {
 		windowColor: "#1E2021",
 		glowColor: "#0000002e",
 		white: "#E5E9F0",
-		gray: "#d8dee9",
 		black: "#3B4252",
 		blue: "#A1B5CE"
 	},
@@ -110,26 +109,31 @@ const defaultConfig = {
 				color: "blue",
 				align: "left",
 				links: [
-					{
-						name: "GitHub",
-						url: "https://github.com",
-						icon: "mdi:github"
-					},
-					{
-						name: "GitLab",
-						url: "https://gitlab.com",
-						icon: "ph:gitlab-logo-simple-fill"
-					},
-					{
-						name: "Dev.to",
-						url: "https://dev.to",
-						icon: "material-symbols:logo-dev"
-					},
-					{
-						name: "Stack Overflow",
-						url: "https://stackoverflow.com/",
-						icon: "mdi:stack-overflow"
-					}
+      {
+         "label": "Email",
+         "value": "https://outlook.office.com/mail/inboxhttps://moodle.city.ac.uk/my"
+				 "icon": "mdi:Email"
+      },
+      {
+        "label": "ICAEW",
+        "value": "https://bibliu.com/app/#/library"
+				"icon": "mdi:book-open-blank-variant"
+      },
+      {
+        "label": "Moodle",
+        "value": "https://moodle.city.ac.uk/my"
+				"icon": "mdi:view-dashboard"
+      },
+      {
+        "label": "LinkedIn",
+        "value": "https://moodle.city.ac.uk/pluginfile.php/2547444/mod_resource/content/1/Prof%20Skills%20Networking%20%20LinkedIn%20Workshop%2021_22.pdf"
+				"icon": "mdi:linkedin"
+      },
+      {
+        "label": "Timetable",
+        "value": "https://mytimetable.city.ac.uk/#/app/my-timetable"
+				"icon": "mdi:timetable"
+          }
 				]
 			},
 			{
