@@ -233,24 +233,24 @@ const defaultConfig = {
 				align: "left",
 				links: [
 					{
-						name: "TechCrunch",
-						url: "https://techcrunch.com/",
-						icon: "game-icons:techno-heart"
+						name: "GitHub",
+						url: "https://github.com",
+						icon: "mdi:github"
 					},
 					{
-						name: "Verge",
-						url: "https://www.theverge.com/",
-						icon: "arcticons:verge"
+						name: "Hacker News",
+						url: "https://news.ycombinator.com/",
+						icon: "fa6-brands:square-hacker-news"
 					},
 					{
-						name: "It's Foss",
-						url: "https://itsfoss.com/",
-						icon: "ri:mastodon-fill"
+						name: "ChatGPT",
+						url: "https://chat.openai.com/chat",
+						icon: "tabler:brand-openai"
 					},
 					{
-						name: "9To5 Linux",
-						url: "https://9to5linux.com/",
-						icon: "uil:linux"
+						name: "Monkeytype",
+						url: "https://monkeytype.com/",
+						icon: "material-symbols:keyboard-alt-rounded"
 					}
 				]
 			}
