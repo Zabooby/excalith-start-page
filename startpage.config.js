@@ -235,12 +235,7 @@ const defaultConfig = {
 					{
 						name: "GitHub",
 						url: "https://github.com",
-						icon: "mdi:github"
-					},
-					{
-						name: "Hacker News",
-						url: "https://news.ycombinator.com/",
-						icon: "fa6-brands:square-hacker-news"
+						icon: "carbon:logo-github"
 					},
 					{
 						name: "ChatGPT",
@@ -251,6 +246,11 @@ const defaultConfig = {
 						name: "Monkeytype",
 						url: "https://monkeytype.com/",
 						icon: "material-symbols:keyboard-alt-rounded"
+					},
+					{
+						name: "Hacker News",
+						url: "https://news.ycombinator.com/",
+						icon: "fa6-brands:square-hacker-news"
 					}
 				]
 			}
