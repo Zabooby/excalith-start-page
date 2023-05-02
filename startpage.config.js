@@ -251,8 +251,6 @@ const defaultConfig = {
 						icon: "tabler:hand-rock"
 					}
 				]
-			},
-				]
 			}
 		]
 	}
