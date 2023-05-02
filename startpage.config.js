@@ -169,33 +169,6 @@ const defaultConfig = {
 				]
 			},
 			{
-				title: "Comics",
-				color: "blue",
-				align: "left",
-				links: [
-					{
-						name: "Polygon",
-						url: "https://polygon.com",
-						icon: "uil:polygon"
-					},
-					{
-						name: "IGN",
-						url: "https://ign.com",
-						icon: "mdi:currency-sign"
-					},
-					{
-						name: "RPS",
-						url: "https://rockpapershotgun.com/",
-						icon: "ph:toilet-paper-bold"
-					},
-					{
-						name: "80lv",
-						url: "https://80.lv/",
-						icon: "tabler:hand-rock"
-					}
-				]
-			},
-			{
 				title: "Stuff",
 				color: "blue",
 				align: "left",
@@ -251,7 +224,34 @@ const defaultConfig = {
 						name: "Hacker News",
 						url: "https://news.ycombinator.com/",
 						icon: "fa6-brands:square-hacker-news"
+					},
+					{
+				title: "Comics",
+				color: "blue",
+				align: "left",
+				links: [
+					{
+						name: "Polygon",
+						url: "https://polygon.com",
+						icon: "uil:polygon"
+					},
+					{
+						name: "IGN",
+						url: "https://ign.com",
+						icon: "mdi:currency-sign"
+					},
+					{
+						name: "RPS",
+						url: "https://rockpapershotgun.com/",
+						icon: "ph:toilet-paper-bold"
+					},
+					{
+						name: "80lv",
+						url: "https://80.lv/",
+						icon: "tabler:hand-rock"
 					}
+				]
+			},
 				]
 			}
 		]
