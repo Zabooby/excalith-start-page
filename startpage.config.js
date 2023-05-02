@@ -3,9 +3,8 @@ const defaultConfig = {
 	theme: {
 		backgroundColor: "#192330",
 		windowColor: "#1E2021",
-		glowColor: "#0000002e",
+		glowColor: "#A1B5CE",
 		white: "#E5E9F0",
-		black: "#3B4252",
 		blue: "#A1B5CE"
 	},
 	wallpaper: {
@@ -30,12 +29,12 @@ const defaultConfig = {
 		promptSymbol: "❯",
 		caretColor: "white",
 		selectionBg: "blue",
-		selectionFg: "black"
+		selectionFg: "white"
 	},
 	fetch: {
 		timeFormat: "HH:mm",
 		dateFormat: "DD/MM/YYYY",
-		titleColor: "yellow",
+		titleColor: "blue",
 		image: "icon.svg",
 		data: [
 			"Time: {time}",
