@@ -83,14 +83,14 @@ const defaultConfig = {
 						"icon": "mdi:email"
 					},
 					{
-						"name": "Reddit",
-						"url": "https://www.reddit.com",
-						"icon": "mdi:reddit"
+						name: "Twitch",
+						url: "https://www.twitch.tv",
+						icon: "mdi:twitch"
 					},
 					{
-						"name": "Twitter",
-						"url": "https://www.twitter.com",
-						"icon": "mdi:twitter"
+						name: "Spotify",
+						url: "https://open.spotify.com",
+						icon: "mdi:spotify"
 					},
 					{
 						"name": "Youtube",
@@ -196,14 +196,14 @@ const defaultConfig = {
 				]
 			},
 			{
-				title: "More Stuff",
+				title: "Socials",
 				color: "blue",
 				align: "left",
 				links: [
 					{
-						name: "Twitch",
-						url: "https://www.twitch.tv",
-						icon: "mdi:twitch"
+						"name": "Reddit",
+						"url": "https://www.reddit.com",
+						"icon": "mdi:reddit"
 					},
 					{
 						name: "TikTok",
@@ -211,9 +211,9 @@ const defaultConfig = {
 						icon: "ic:baseline-tiktok"
 					},
 					{
-						name: "Spotify",
-						url: "https://open.spotify.com",
-						icon: "mdi:spotify"
+						"name": "Twitter",
+						"url": "https://www.twitter.com",
+						"icon": "mdi:twitter"
 					},
 					{
 						name: "Discord",
@@ -223,7 +223,7 @@ const defaultConfig = {
 					{
 						name: "Instagram",
 						url: "https://instagram.com",
-						icon: "ph:instagram-logo-fill"
+						icon: "mdi:instagram"
 					}
 				]
 			},
