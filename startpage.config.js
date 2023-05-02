@@ -201,24 +201,29 @@ const defaultConfig = {
 				align: "left",
 				links: [
 					{
-						name: "PopSci",
-						url: "https://popsci.com/",
-						icon: "material-symbols:science"
+						name: "Twitch",
+						url: "https://www.twitch.tv",
+						icon: "mdi:twitch"
 					},
 					{
-						name: "Space",
-						url: "fa6-solid:user-astronaut",
-						icon: "mdi:reddit"
+						name: "TikTok",
+						url: "https://www.tiktok.com",
+						icon: "ic:baseline-tiktok"
 					},
 					{
-						name: "NASA",
-						url: "https://blogs.nasa.gov/",
-						icon: "simple-icons:nasa"
+						name: "Spotify",
+						url: "https://open.spotify.com",
+						icon: "mdi:spotify"
 					},
 					{
-						name: "ESA",
-						url: "https://blogs.esa.int/",
-						icon: "mdi:black-mesa"
+						name: "Discord",
+						url: "https://discord.com/channels/686053708261228577/69423350750091679",
+						icon: "ic:baseline-discord"
+					},
+					{
+						name: "Instagram",
+						url: "https://instagram.com",
+						icon: "mdi:instagram"
 					}
 				]
 			},
