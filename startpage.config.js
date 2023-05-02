@@ -223,7 +223,7 @@ const defaultConfig = {
 					{
 						name: "Instagram",
 						url: "https://instagram.com",
-						icon: "mdi:instagram"
+						icon: "ph:instagram-logo-fill"
 					}
 				]
 			},
