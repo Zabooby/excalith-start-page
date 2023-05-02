@@ -225,35 +225,36 @@ const defaultConfig = {
 						url: "https://news.ycombinator.com/",
 						icon: "fa6-brands:square-hacker-news"
 					},
-					{
-				title: "Comics",
-				color: "blue",
+			{
+				title: "Tech",
+				color: "yellow",
 				align: "left",
 				links: [
 					{
-						name: "Polygon",
-						url: "https://polygon.com",
-						icon: "uil:polygon"
+						name: "TechCrunch",
+						url: "https://techcrunch.com/",
+						icon: "game-icons:techno-heart"
 					},
 					{
-						name: "IGN",
-						url: "https://ign.com",
-						icon: "mdi:currency-sign"
+						name: "Verge",
+						url: "https://www.theverge.com/",
+						icon: "arcticons:verge"
 					},
 					{
-						name: "RPS",
-						url: "https://rockpapershotgun.com/",
-						icon: "ph:toilet-paper-bold"
+						name: "It's Foss",
+						url: "https://itsfoss.com/",
+						icon: "ri:mastodon-fill"
 					},
 					{
-						name: "80lv",
-						url: "https://80.lv/",
-						icon: "tabler:hand-rock"
+						name: "9To5 Linux",
+						url: "https://9to5linux.com/",
+						icon: "uil:linux"
 					}
 				]
 			}
 		]
 	}
 }
+
 
 export default defaultConfig
