@@ -72,39 +72,7 @@ const defaultConfig = {
 	},
 	sections: {
 		list: [
-			{
-				title: "Stuff",
-				color: "blue",
-				align: "left",
-				links: [
-					{
-						"name": "Gmail",
-						"url": "https://mail.google.com/mail/u/1/#inbox",
-						"icon": "mdi:email"
-					},
-					{
-						name: "Twitch",
-						url: "https://www.twitch.tv",
-						icon: "mdi:twitch"
-					},
-					{
-						name: "Spotify",
-						url: "https://open.spotify.com",
-						icon: "mdi:spotify"
-					},
-					{
-						"name": "Youtube",
-						"url": "https://www.youtube.com",
-						"icon": "mdi:youtube"
-					},
-					{
-						"name": "Flipboard",
-						"url": "https://flipboard.com",
-						"icon": "mdi:newspaper-variant"
-					}
-				]
-			},
-			{
+      {
 				title: "University",
 				color: "blue",
 				align: "left",
@@ -133,6 +101,38 @@ const defaultConfig = {
 						"name": "Timetable",
 						"url": "https://mytimetable.city.ac.uk/#/app/my-timetable",
 						"icon": "mdi:timetable"
+					}
+				]
+			},
+			{
+				title: "Socials",
+				color: "blue",
+				align: "left",
+				links: [
+					{
+						"name": "Reddit",
+						"url": "https://www.reddit.com",
+						"icon": "mdi:reddit"
+					},
+					{
+						name: "TikTok",
+						url: "https://www.tiktok.com",
+						icon: "ic:baseline-tiktok"
+					},
+					{
+						"name": "Twitter",
+						"url": "https://www.twitter.com",
+						"icon": "mdi:twitter"
+					},
+					{
+						name: "Discord",
+						url: "https://discord.com/channels/686053708261228577/69423350750091679",
+						icon: "ic:baseline-discord"
+					},
+					{
+						name: "Instagram",
+						url: "https://instagram.com",
+						icon: "mdi:instagram"
 					}
 				]
 			},
@@ -196,34 +196,34 @@ const defaultConfig = {
 				]
 			},
 			{
-				title: "Socials",
+				title: "Stuff",
 				color: "blue",
 				align: "left",
 				links: [
 					{
-						"name": "Reddit",
-						"url": "https://www.reddit.com",
-						"icon": "mdi:reddit"
+						"name": "Gmail",
+						"url": "https://mail.google.com/mail/u/1/#inbox",
+						"icon": "mdi:email"
 					},
 					{
-						name: "TikTok",
-						url: "https://www.tiktok.com",
-						icon: "ic:baseline-tiktok"
+						name: "Twitch",
+						url: "https://www.twitch.tv",
+						icon: "mdi:twitch"
 					},
 					{
-						"name": "Twitter",
-						"url": "https://www.twitter.com",
-						"icon": "mdi:twitter"
+						name: "Spotify",
+						url: "https://open.spotify.com",
+						icon: "mdi:spotify"
 					},
 					{
-						name: "Discord",
-						url: "https://discord.com/channels/686053708261228577/69423350750091679",
-						icon: "ic:baseline-discord"
+						"name": "Youtube",
+						"url": "https://www.youtube.com",
+						"icon": "mdi:youtube"
 					},
 					{
-						name: "Instagram",
-						url: "https://instagram.com",
-						icon: "mdi:instagram"
+						"name": "Flipboard",
+						"url": "https://flipboard.com",
+						"icon": "mdi:newspaper-variant"
 					}
 				]
 			},
