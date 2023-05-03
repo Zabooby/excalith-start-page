@@ -234,27 +234,27 @@ const defaultConfig = {
 					{
 						name: "xkcd",
 						url: "https://xkcd.com",
-						icon: "arcticons:comicscreen" 
+						icon: "mdi:comic-bubble" 
 					},
 					{
 						name: "SMBC",
 						url: "https://www.smbc-comics.com",
-						icon: "arcticons:comicscreen"
+						icon: "mdi:comic-bubble"
 					},
 					{
 						name: "Swords",
-						url: "hhttps://swordscomic.com",
-						icon: "arcticons:comicscreen"
+						url: "https://swordscomic.com",
+						icon: "mdi:comic-bubble"
 					},
 					{
 						name: "Loading Artist",
 						url: "https://loadingartist.com/comic/have-an-ice-trip",
-						icon: "arcticons:comicscreen"
+						icon: "mdi:comic-bubble"
 					},
 					{
 						name: "Cyanide and Happiness",
 						url: "https://explosm.net/comics/latest",
-						icon: "arcticons:comicscreen"
+						icon: "mdi:comic-bubble"
 					}
 				]
 			}
