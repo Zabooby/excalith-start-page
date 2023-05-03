@@ -151,13 +151,13 @@ const defaultConfig = {
 						icon: "mdi:movie-search"
 					},
 					{
-						name: "RARBG",
-						url: "https://rarbg.to/torrents.php",
+						name: "1337x",
+						url: "https://1337x.to",
 						icon: "mdi:movie-search"
 					},
 					{
-						name: "1337x",
-						url: "https://1337x.to",
+						name: "RARBG",
+						url: "https://rarbg.to/torrents.php",
 						icon: "mdi:movie-search"
 					},
 					{
