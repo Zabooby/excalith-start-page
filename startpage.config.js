@@ -168,33 +168,6 @@ const defaultConfig = {
 				]
 			},
 			{
-				title: "Comics",
-				color: "blue",
-				align: "left",
-				links: [
-					{
-						name: "Polygon",
-						url: "https://polygon.com",
-						icon: "uil:polygon"
-					},
-					{
-						name: "IGN",
-						url: "https://ign.com",
-						icon: "mdi:currency-sign"
-					},
-					{
-						name: "RPS",
-						url: "https://rockpapershotgun.com/",
-						icon: "ph:toilet-paper-bold"
-					},
-					{
-						name: "80lv",
-						url: "https://80.lv/",
-						icon: "tabler:hand-rock"
-					}
-				]
-			},
-			{
 				title: "Stuff",
 				color: "blue",
 				align: "left",
@@ -243,13 +216,45 @@ const defaultConfig = {
 					},
 					{
 						name: "Monkeytype",
-						url: "https://monkeytype.com/",
+						url: "https://monkeytype.com",
 						icon: "material-symbols:keyboard-alt-rounded"
 					},
 					{
 						name: "Hacker News",
-						url: "https://news.ycombinator.com/",
+						url: "https://news.ycombinator.com",
 						icon: "fa6-brands:square-hacker-news"
+					}
+				]
+			},
+			{
+				title: "Comics",
+				color: "blue",
+				align: "left",
+				links: [
+					{
+						name: "xkcd",
+						url: "https://xkcd.com",
+						icon: "arcticons:comicscreen" 
+					},
+					{
+						name: "SMBC",
+						url: "https://www.smbc-comics.com",
+						icon: "arcticons:comicscreen"
+					},
+					{
+						name: "Swords",
+						url: "hhttps://swordscomic.com",
+						icon: "arcticons:comicscreen"
+					},
+					{
+						name: "Loading Artist",
+						url: "https://loadingartist.com/comic/have-an-ice-trip",
+						icon: "arcticons:comicscreen"
+					},
+					{
+						name: "Cyanide and Happiness",
+						url: "https://explosm.net/comics/latest",
+						icon: "arcticons:comicscreen"
 					}
 				]
 			}
