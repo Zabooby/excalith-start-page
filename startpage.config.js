@@ -189,7 +189,7 @@ const defaultConfig = {
 					},
 					{
 						name: "Discord",
-						url: "https://discord.com/channels/686053708261228577/69423350750091679",
+						url: "https://discord.com/channels/686053708261228577/694233507500916796",
 						icon: "ic:baseline-discord"
 					},
 					{
