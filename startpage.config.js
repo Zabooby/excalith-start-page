@@ -63,6 +63,11 @@ const defaultConfig = {
 				url: "https://github.com/search?q={}"
 			},
 			{
+				alias: "y",
+				name: "YouTube Search",
+				url: "https://www.youtube.com/results?search_query={}"
+			},
+			{
 				alias: "r",
 				name: "Subreddit Search",
 				url: "https://reddit.com/r/{}"
@@ -124,7 +129,7 @@ const defaultConfig = {
 						icon: "mdi:spotify"
 					},
 					{
-						"name": "Youtube",
+						"name": "YouTube",
 						"url": "https://www.youtube.com",
 						"icon": "mdi:youtube"
 					},
