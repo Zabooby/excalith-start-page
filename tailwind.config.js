@@ -5,7 +5,7 @@ module.exports = {
 	// important: true,
 	theme: {
 		fontFamily: {
-			mono: ["FiraCode", "ui-monospace", "SFMono-Regular"]
+			mono: ["JetBrains-Mono"]
 		},
 		fontSize: {
 			DEFAULT: ["1rem", "2em"],
