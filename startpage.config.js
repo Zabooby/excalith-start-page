@@ -220,6 +220,11 @@ const defaultConfig = {
 						icon: "tabler:brand-openai"
 					},
 					{
+						name: "Bing AI",
+						url: "https://www.bing.com/search?q=Bing+AI&showconv=1",
+						icon: "https://www.bing.com/search?q=Bing+AI&showconv=1"
+					},
+					{
 						name: "Monkeytype",
 						url: "https://monkeytype.com",
 						icon: "material-symbols:keyboard-alt-rounded"
