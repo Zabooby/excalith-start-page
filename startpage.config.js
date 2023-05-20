@@ -258,7 +258,7 @@ const defaultConfig = {
 					},
 					{
 						name: "Loading Artist",
-						url: "https://loadingartist.com/comic/dying-up-here",
+						url: "https://loadingartist.com/comic/trip-of-a-lifetime",
 						icon: "mdi:comic-bubble"
 					},
 					{
