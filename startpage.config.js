@@ -161,8 +161,8 @@ const defaultConfig = {
 						icon: "mdi:movie-search"
 					},
 					{
-						name: "RARBG",
-						url: "https://rarbg.to/torrents.php",
+						name: "RARBG replacement",
+						url: "",
 						icon: "mdi:movie-search"
 					},
 					{
@@ -258,7 +258,7 @@ const defaultConfig = {
 					},
 					{
 						name: "Loading Artist",
-						url: "https://loadingartist.com/comic/trip-of-a-lifetime",
+						url: "https://loadingartist.com/comic/chasing-some-tail",
 						icon: "mdi:comic-bubble"
 					},
 					{
