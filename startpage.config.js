@@ -258,7 +258,7 @@ const defaultConfig = {
 					},
 					{
 						name: "Loading Artist",
-						url: "https://loadingartist.com/comic/chasing-some-tail",
+						url: "https://loadingartist.com/comic/virtually-extinct",
 						icon: "mdi:comic-bubble"
 					},
 					{
