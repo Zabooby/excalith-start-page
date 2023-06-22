@@ -161,8 +161,8 @@ const defaultConfig = {
 						icon: "mdi:movie-search"
 					},
 					{
-						name: "RARBG replacement",
-						url: "",
+						name: "Bitsearch",
+						url: "https://bitsearch.to",
 						icon: "mdi:movie-search"
 					},
 					{
