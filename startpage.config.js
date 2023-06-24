@@ -258,7 +258,7 @@ const defaultConfig = {
 					},
 					{
 						name: "Loading Artist",
-						url: "https://loadingartist.com/comic/virtually-extinct",
+						url: "https://loadingartist.com/comic/plucked-up-the-cinema",
 						icon: "mdi:comic-bubble"
 					},
 					{
