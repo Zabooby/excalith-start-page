@@ -258,7 +258,7 @@ const defaultConfig = {
 					},
 					{
 						name: "Loading Artist",
-						url: "https://loadingartist.com/comic/plucked-up-the-cinema",
+						url: "https://loadingartist.com/comic/unexpected-presents",
 						icon: "mdi:comic-bubble"
 					},
 					{
