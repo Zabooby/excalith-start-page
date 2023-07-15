@@ -258,7 +258,7 @@ const defaultConfig = {
 					},
 					{
 						name: "Loading Artist",
-						url: "https://loadingartist.com/comic/unexpected-presents",
+						url: "https://loadingartist.com/comic/dropping-by",
 						icon: "mdi:comic-bubble"
 					},
 					{
