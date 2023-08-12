@@ -258,7 +258,7 @@ const defaultConfig = {
 					},
 					{
 						name: "Loading Artist",
-						url: "https://loadingartist.com/comic/live-and-let-bee",
+						url: "https://loadingartist.com/comic/story-of-my-life",
 						icon: "mdi:comic-bubble"
 					},
 					{
