@@ -258,7 +258,7 @@ const defaultConfig = {
 					},
 					{
 						name: "Loading Artist",
-						url: "https://loadingartist.com/comic/story-of-my-life",
+						url: "https://loadingartist.com/comic/catch-em-all",
 						icon: "mdi:comic-bubble"
 					},
 					{
