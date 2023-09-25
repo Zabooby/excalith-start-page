@@ -93,7 +93,7 @@ const defaultConfig = {
 					},
 					{
 						"name": "Moodle",
-						"url": "https://moodle.city.ac.uk/my",
+						"url": "https://moodle4.city.ac.uk/my",
 						"icon": "mdi:view-dashboard"
 					},
 					{
