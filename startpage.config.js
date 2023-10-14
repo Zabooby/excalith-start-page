@@ -258,7 +258,7 @@ const defaultConfig = {
 					},
 					{
 						name: "Loading Artist",
-						url: "https://loadingartist.com/comic/user-terror",
+						url: "https://loadingartist.com/comic/plucked-up-helping-hand",
 						icon: "mdi:comic-bubble"
 					},
 					{
