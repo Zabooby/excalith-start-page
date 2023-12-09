@@ -258,7 +258,7 @@ const defaultConfig = {
 					},
 					{
 						name: "Loading Artist",
-						url: "https://loadingartist.com/comic/cut-it-out",
+						url: "https://loadingartist.com/comic/deck-the-malls",
 						icon: "mdi:comic-bubble"
 					},
 					{
