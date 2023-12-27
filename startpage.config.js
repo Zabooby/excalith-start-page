@@ -220,8 +220,8 @@ const defaultConfig = {
 						icon: "tabler:brand-openai"
 					},
 					{
-						name: "Bing AI",
-						url: "https://www.bing.com/search?q=Bing+AI&showconv=1",
+						name: "Copilot",
+						url: "https://copilot.microsoft.com",
 						icon: "simple-icons:microsoftbing"
 					},
 					{
