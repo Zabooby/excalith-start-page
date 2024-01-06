@@ -258,7 +258,7 @@ const defaultConfig = {
 					},
 					{
 						name: "Loading Artist",
-						url: "https://loadingartist.com/comic/saint-nick",
+						url: "https://loadingartist.com/comic/face-to-face",
 						icon: "mdi:comic-bubble"
 					},
 					{
