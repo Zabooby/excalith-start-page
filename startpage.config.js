@@ -258,7 +258,7 @@ const defaultConfig = {
 					},
 					{
 						name: "Loading Artist",
-						url: "https://loadingartist.com/comic/face-to-face",
+						url: "https://loadingartist.com/comic/plucked-up-plan-bee",
 						icon: "mdi:comic-bubble"
 					},
 					{
