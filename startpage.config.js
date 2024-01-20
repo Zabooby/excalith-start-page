@@ -258,7 +258,7 @@ const defaultConfig = {
 					},
 					{
 						name: "Loading Artist",
-						url: "https://loadingartist.com/comic/plucked-up-plan-bee",
+						url: "https://loadingartist.com/comic/ai-of-the-beholder",
 						icon: "mdi:comic-bubble"
 					},
 					{
