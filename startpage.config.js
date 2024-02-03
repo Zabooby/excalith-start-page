@@ -258,7 +258,7 @@ const defaultConfig = {
 					},
 					{
 						name: "Loading Artist",
-						url: "https://loadingartist.com/comic/ai-of-the-beholder",
+						url: "https://loadingartist.com/comic/sunny-disposition",
 						icon: "mdi:comic-bubble"
 					},
 					{
