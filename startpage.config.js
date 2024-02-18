@@ -258,7 +258,7 @@ const defaultConfig = {
 					},
 					{
 						name: "Loading Artist",
-						url: "https://loadingartist.com/comic/rose-to-the-occasions",
+						url: "https://loadingartist.com/comic/rose-to-the-occasion",
 						icon: "mdi:comic-bubble"
 					},
 					{
