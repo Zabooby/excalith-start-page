@@ -161,8 +161,8 @@ const defaultConfig = {
 						icon: "mdi:movie-search"
 					},
 					{
-						name: "Bitsearch",
-						url: "https://bitsearch.to",
+						name: "RuTracker",
+						url: "https://rutracker.org",
 						icon: "mdi:movie-search"
 					},
 					{
