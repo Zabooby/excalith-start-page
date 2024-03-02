@@ -258,7 +258,7 @@ const defaultConfig = {
 					},
 					{
 						name: "Loading Artist",
-						url: "https://loadingartist.com/comic/rose-to-the-occasion",
+						url: "https://loadingartist.com/comic/lunar-or-later",
 						icon: "mdi:comic-bubble"
 					},
 					{
