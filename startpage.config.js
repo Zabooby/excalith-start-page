@@ -258,7 +258,7 @@ const defaultConfig = {
 					},
 					{
 						name: "Loading Artist",
-						url: "https://loadingartist.com/comic/lunar-or-later",
+						url: "https://loadingartist.com/comic/sketchy-neighbourhood",
 						icon: "mdi:comic-bubble"
 					},
 					{
