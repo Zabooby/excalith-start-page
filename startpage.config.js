@@ -258,7 +258,7 @@ const defaultConfig = {
 					},
 					{
 						name: "Loading Artist",
-						url: "https://loadingartist.com/comic/sketchy-neighbourhood",
+						url: "https://loadingartist.com/comic/sticky-situation",
 						icon: "mdi:comic-bubble"
 					},
 					{
