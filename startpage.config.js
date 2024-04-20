@@ -258,7 +258,7 @@ const defaultConfig = {
 					},
 					{
 						name: "Loading Artist",
-						url: "https://loadingartist.com/comic/sticky-situation",
+						url: "https://loadingartist.com/comic/endgame",
 						icon: "mdi:comic-bubble"
 					},
 					{
