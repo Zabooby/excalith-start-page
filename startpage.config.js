@@ -258,7 +258,7 @@ const defaultConfig = {
 					},
 					{
 						name: "Loading Artist",
-						url: "https://loadingartist.com/comic/endgame",
+						url: "https://loadingartist.com/comic/single-minded",
 						icon: "mdi:comic-bubble"
 					},
 					{
