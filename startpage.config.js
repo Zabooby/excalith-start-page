@@ -258,7 +258,7 @@ const defaultConfig = {
 					},
 					{
 						name: "Loading Artist",
-						url: "https://loadingartist.com/comic/hungry-for-home",
+						url: "https://loadingartist.com/comic/moved",
 						icon: "mdi:comic-bubble"
 					},
 					{
