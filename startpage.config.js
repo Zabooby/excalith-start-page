@@ -258,7 +258,7 @@ const defaultConfig = {
 					},
 					{
 						name: "Loading Artist",
-						url: "https://loadingartist.com/comic/final-offer",
+						url: "https://loadingartist.com/comic/sign-of-the-times",
 						icon: "mdi:comic-bubble"
 					},
 					{
