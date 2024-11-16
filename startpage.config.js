@@ -258,7 +258,7 @@ const defaultConfig = {
 					},
 					{
 						name: "Loading Artist",
-						url: "https://loadingartist.com/comic/candy-man",
+						url: "https://loadingartist.com/comic/job-prospects",
 						icon: "mdi:comic-bubble"
 					},
 					{
