@@ -77,7 +77,7 @@ const defaultConfig = {
 	sections: {
 		list: [
       {
-				title: "University",
+				title: "Work",
 				color: "blue",
 				align: "left",
 				links: [
@@ -98,7 +98,7 @@ const defaultConfig = {
 					},
 					{
 						"name": "LinkedIn",
-						"url": "https://moodle.city.ac.uk/pluginfile.php/2547444/mod_resource/content/1/Prof%20Skills%20Networking%20%20LinkedIn%20Workshop%2021_22.pdf",
+						"url": "hhttps://www.linkedin.com/feed",
 						"icon": "mdi:linkedin"
 					},
 					{
